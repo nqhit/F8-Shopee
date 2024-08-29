@@ -1,0 +1,1 @@
+    object-fit: contain; /*hình anh tuyet doi*/
